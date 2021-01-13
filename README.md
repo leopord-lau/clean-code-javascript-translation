@@ -1,7 +1,7 @@
 # 编写更简洁的JavaScript
 [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)的中文翻译
 
-[TOC]
+@[toc]
 
 
 
